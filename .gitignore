@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Removed
+/stenv
+
 # Distribution / packaging
 .Python
 build/
